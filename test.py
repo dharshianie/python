@@ -2,4 +2,4 @@ import math
 import os
 
 print("hello world")
-print("status is now udpated")
+print("status is now getting acknowledged")
